@@ -34,13 +34,13 @@ It wrote the code, ran away, and now the game is unplayable.
 - [X] [Insert a screenshot of your fixed, winning game here]
 
 ### 1. Game Start
-![Game Start](images/lower.png)
+![Game Start](lower.png)
 
 ### 2. Guess In Progress
-![Guess In Progress](images/higher.png)
+![Guess In Progress](higher.png)
 
 ### 3. Win Screen
-![Win Screen](images/won.png)
+![Win Screen](won.png)
 
 ## 🚀 Stretch Features
 
