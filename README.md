@@ -25,13 +25,22 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [X] Describe the game's purpose.
+- [X] Detail which bugs you found.
+- [X] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [X] [Insert a screenshot of your fixed, winning game here]
+
+### 1. Game Start
+![Game Start](images/lower.png)
+
+### 2. Guess In Progress
+![Guess In Progress](images/higher.png)
+
+### 3. Win Screen
+![Win Screen](images/won.png)
 
 ## 🚀 Stretch Features
 
