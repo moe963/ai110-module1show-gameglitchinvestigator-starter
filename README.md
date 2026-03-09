@@ -33,13 +33,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 - [X] [Insert a screenshot of your fixed, winning game here]
 
-### 1. Game Start
+### 1. Number > Guess
 ![Game Start](lower.png)
 
-### 2. Guess In Progress
+### 2. Number < Guess
 ![Guess In Progress](higher.png)
 
-### 3. Win Screen
+### 3. Number = Guess
 ![Win Screen](won.png)
 
 ## 🚀 Stretch Features
