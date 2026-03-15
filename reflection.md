@@ -6,7 +6,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
-  (for example: "the secret number kept changing" or "the hints were backwards").
+  (for example: "the hints were backwards").
 
   When I first ran the game, it worked, but the logic had clear bugs. 
   The hint direction was wrong: if my guess was too high, it told me to go higher instead of lower. 
@@ -42,9 +42,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 ## 4. What did you learn about Streamlit and state?
 
-- In your own words, explain why the secret number kept changing in the original app.
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
-- What change did you make that finally gave the game a stable secret number?
 
   I learned that Streamlit session state is the app’s memory between reruns. 
   If values are handled inconsistently, the game can look random or broken. 
